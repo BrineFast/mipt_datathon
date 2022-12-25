@@ -4,7 +4,7 @@
 В рамках проекта будут реализованы скраперы для получения информации о DS вакансиях из нескольких Telegram каналов и LinkedIn. Затем полученные данные преобразуются в DataSet для дальнейшего анализа.
 
 ## Прототип итогового результата
-| Company_name | Positiom_name | Location | Level_of_position | Salary | Salary_from |  Salary_to | Experience | Skills | Tags | Remote |
+| Company_name | Position_name | Location | Level_of_position | Salary | Salary_from |  Salary_to | Experience | Skills | Tags | Remote |
 | ---          | ---           | ---      | ---               | ---    | ---         | ---        | ---        | ---    | ---  | --- |
 | ---          | ---           | ---      | ---               | ---    | ---         | ---        | ---        | ---    | ---  | --- |
 
